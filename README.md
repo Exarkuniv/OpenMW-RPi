@@ -11,7 +11,7 @@ AND do not INSTALL the video files. they will cause the game to crash.
 ![Openmw-RPI](https://i.ytimg.com/vi/gK2xs57VgZg/maxresdefault.jpg)
 
 
-`wget https://raw.githubusercontent.com/Exarkuniv/Nblood-RPI/Master/nblood.sh -P $HOME/RetroPie-Setup/scriptmodules/ports/`
+`wget https://raw.githubusercontent.com/Exarkuniv/OpenMW-RPi/Master/openmw.sh -P $HOME/RetroPie-Setup/scriptmodules/ports/`
 
 Driver script
-`wget https://raw.githubusercontent.com/Exarkuniv/Nblood-RPI/Master/nblood.sh -P $HOME/RetroPie-Setup/scriptmodules/ports/`
+`wget https://raw.githubusercontent.com/Exarkuniv/OpenMW-RPi/Master/openmwdriver.sh -P $HOME/RetroPie-Setup/scriptmodules/ports/`
