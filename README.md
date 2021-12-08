@@ -15,4 +15,6 @@ AND do not INSTALL the video files. they will cause the game to crash.
 
 Driver script
 
-`wget https://raw.githubusercontent.com/Exarkuniv/OpenMW-RPi/Master/openmwdriver.sh -P $HOME/RetroPie-Setup/scriptmodules/ports/`
+```
+wget https://raw.githubusercontent.com/Exarkuniv/OpenMW-RPi/Master/openmwdriver.sh -P $HOME/RetroPie-Setup/scriptmodules/ports/
+```
