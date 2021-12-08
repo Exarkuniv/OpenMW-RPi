@@ -8,7 +8,7 @@ you will need to play around with the settings.
 
 AND do not INSTALL the video files. they will cause the game to crash. 
 
-![Openmw-RPI](https://imgur.com/1S0FlUz)
+![Openmw-RPI](https://i.ytimg.com/vi/gK2xs57VgZg/maxresdefault.jpg)
 
 
 `wget https://raw.githubusercontent.com/Exarkuniv/Nblood-RPI/Master/nblood.sh -P $HOME/RetroPie-Setup/scriptmodules/ports/`
